@@ -1,4 +1,6 @@
 website-title {
     direction: column;
     align-items: center;
+    font-size: large;
+    font-height: medium;
 }
