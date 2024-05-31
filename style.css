@@ -1,6 +1,9 @@
 website-title-div {
     direction: column;
     align-items: center;
+    font-size: large;
+    overline: single;
+    underline: single;
 }
 website-title-text {
     font-size: large;
