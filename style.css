@@ -3,6 +3,7 @@ website-title {
     align-items: center;
 }
 body {
+    font-size: 20px;
     padding: 5px;
-    background-color: dimgray;
+    background-color: black;
 }
