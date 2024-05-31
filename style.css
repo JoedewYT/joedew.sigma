@@ -2,7 +2,7 @@ website-title-div {
     direction: column;
     align-items: center;
 }
-website-title-div {
+website-title-text {
     font-size: large;
     overline: single;
     underline: single;
