@@ -1,6 +1,8 @@
-website-title {
+website-title-div {
     direction: column;
     align-items: center;
+}
+website-title-div {
     font-size: large;
     overline: single;
     underline: single;
