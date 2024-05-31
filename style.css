@@ -1,5 +1,11 @@
 website-title {
     direction: column;
     align-items: center;
-
+}
+body {
+    margin-left: 0;
+    margin-right: 0;
+    margin-up: 0;
+    margin-down: 0;
+    background-color: dimgray;
 }
